@@ -1,0 +1,15 @@
+# TelegramOSINT-Kit Dependencies
+# Python 3.7+
+
+# No external Python packages required!
+# This tool uses only standard library modules:
+# - subprocess (for curl execution)
+# - json (for data handling)
+# - os (for file operations)
+# - typing (for type hints)
+# - datetime (for usage tracking)
+
+# System requirements:
+# - curl (usually pre-installed on Linux/macOS)
+#   Install: sudo apt install curl (Debian/Ubuntu)
+#           brew install curl (macOS)
