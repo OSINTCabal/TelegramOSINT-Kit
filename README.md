@@ -1,4 +1,4 @@
-# 🔍 TelegramOSINT-Kit
+# 🔍 TeleGramSint
 
 **Multi-API Intelligence Gathering Platform for Telegram**
 
